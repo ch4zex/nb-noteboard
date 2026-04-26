@@ -16,6 +16,7 @@ The **NB NoteBoard** is a highly encrypted (Zero-Knowledge / E2EE), highly custo
 6. [Productivity Tools (Timer & Links)](#6-productivity-tools-timer--links)
 7. [Mobile Push Notifications](#7-mobile-push-notifications)
 8. [Theming & Personalization](#8-theming--personalization)
+9. [Screenshots](#9-screenshots)
 
 ---
 
@@ -173,3 +174,20 @@ Open the Theme Selector (`:themes` or via the button in the top right). Here you
 Your last used theme is also saved in your browser's `localStorage` to provide a themed login screen even when your session has expired.
 
 ---
+
+## 9. Screenshots
+
+   <div align="center">
+     <img src="screenshots/screenshot_2026-04-26_20-47-22.png" width="600" alt="Screenshot1" />
+     <img src="screenshots/screenshot_2026-04-26_20-47-32.png" width="600" alt="Screenshot2" />
+     <img src="screenshots/screenshot_2026-04-26_20-49-37.png" width="600" alt="Screenshot3" />
+     <img src="screenshots/screenshot_2026-04-26_20-50-02.png" width="600" alt="Screenshot4" />
+     <img src="screenshots/screenshot_2026-04-26_20-50-17.png" width="600" alt="Screenshot5" />
+     <img src="screenshots/screenshot_2026-04-26_20-50-34.png" width="600" alt="Screenshot6" />
+     <img src="screenshots/screenshot_2026-04-26_20-50-49.png" width="600" alt="Screenshot7" />
+     <img src="screenshots/screenshot_2026-04-26_20-50-56.png" width="600" alt="Screenshot8" />
+     <img src="screenshots/screenshot_2026-04-26_20-51-04.png" width="600" alt="Screenshot9" />
+     <img src="screenshots/screenshot_2026-04-26_20-52-50.png" width="600" alt="Screenshot10" />
+     <img src="screenshots/screenshot_2026-04-26_20-54-54.png" width="600" alt="Screenshot11" />
+     <img src="screenshots/screenshot_2026-04-26_20-55-45.png" width="600" alt="Screenshot12" />
+   </div>

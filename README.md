@@ -47,6 +47,13 @@ This mode is designed for deep, focused work. It expands the dashboard to fill y
 *   **Additional Widgets:** In this mode, the **Scratchpad** (left) and **Task Manager** (right) become available.
 *   **Layout Control:** You can minimize all sidebar widgets at once with `Space + M` to create a clean "rail" view. Widgets can also be collapsed individually by clicking their header or the `[ - ]` button.
 
+### Mobile View (< 768px)
+When accessed on a smartphone, the dashboard automatically transforms into a highly optimized, touch-friendly vertical layout:
+*   **Single Column:** The grid collapses into a single column. To save screen space, secondary widgets (Scratchpad, Task Manager, and Quick Access Links) are hidden.
+*   **Vertical Order:** The remaining widgets are stacked logically: Clock ➔ Pomodoro Timer ➔ Upcoming Events ➔ Note Editor.
+*   **Integrated Search:** The global command/search bar is moved directly inside the top of the Notes widget.
+*   **Touch Optimizations:** The note tabs become horizontally scrollable via swipe. Fonts are scaled down by ~20% for mobile readability, To-Do items wrap intelligently into multiple lines, and the viewport uses dynamic height (`100dvh`) to perfectly accommodate your on-screen keyboard.
+
 ---
 
 ## 3. Keyboard Shortcuts

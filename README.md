@@ -16,7 +16,6 @@ The **NB NoteBoard** is a highly encrypted (Zero-Knowledge / E2EE), highly custo
 6. [Productivity Tools (Timer & Links)](#6-productivity-tools-timer--links)
 7. [Mobile Push Notifications](#7-mobile-push-notifications)
 8. [Theming & Personalization](#8-theming--personalization)
-9. [Admin Dashboard](#9-admin-dashboard)
 
 ---
 

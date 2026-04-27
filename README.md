@@ -1,6 +1,6 @@
 # NB NoteBoard - Productivity & Life-Management Dashboard
 
-[<a href="https://ch4ze.net" target="_blank" rel="noopener noreferrer">https://ch4ze.net</a>]
+[<a href="https://ch4ze.net" target="_blank" rel="noopener noreferrer">https://ch4ze.net</a>] Currently closed for new registrations. You can contact me on reddit if you want to make an account. **u/ch4zex**
 
 The **NB NoteBoard** is a highly encrypted (Zero-Knowledge / E2EE), highly customizable, and feature-rich productivity dashboard. It combines note management, task planning (To-Dos), a calendar, a Pomodoro timer, and Quick-Links in a seamless, keyboard-controllable interface.
 
